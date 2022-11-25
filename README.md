@@ -2,6 +2,8 @@
 
 ## Sobre
 
+Uma simples aplicação de bot para o Discord que tem como tarefa verificar a API do [TabNews](https://www.tabnews.com.br) em busca de novas publicações e as enviar em um determinado canal do Discord.
+
 Esse projeto tem como base a API do site [TabNews](https://www.tabnews.com.br). seu repositório pode ser encontrado em [filipedeschamps/tabnews.com.br](https://github.com/filipedeschamps/tabnews.com.br).
 
 ## Instalar e rodas o projeto
